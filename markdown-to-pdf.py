@@ -24,7 +24,7 @@ def md_to_pdf(md_file_path):
         <style>
             body {{
                 font-family: Arial, sans-serif;
-                margin: 40px;
+                margin: 15px;
                 line-height: 1.6;
                 color: #333;
             }}
